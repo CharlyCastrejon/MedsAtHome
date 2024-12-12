@@ -21,3 +21,28 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS-specific files
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+$RECYCLE.BIN/
+
+# Build directories
+/build
+/out
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.lock
+*.log
